@@ -1,13 +1,13 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Orangotango',
+    'Qual o tamanho do maior orangotango?',
+    'Os orangotangos podem medir 1,3 metro de altura e seus machos costumam pesar cerca de 130 quilos.'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Papagaio',
+    'Porque papagaio imita voz?',
+    ' Isso ocorre porque possuem em seu cérebro centros que controlam a vocalização'
 )
 
 criaCartao(
