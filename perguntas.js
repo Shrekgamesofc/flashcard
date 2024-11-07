@@ -11,13 +11,13 @@ criaCartao(
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Aves',
+    'Qual a ave mais perigosa?',
+    'Casuar'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Baleia',
+    'Por que baleia canta?',
+    'Provavelmente servem para se comunicar com outras baleias e atrair parceiros em potencial.'
 )
